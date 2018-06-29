@@ -1,0 +1,29 @@
+                              \e[39m******\e[0m
+                          \e[39m*****\e[0m\e[38;5;184mcc\e[0m\e[38;5;220mee\e[0m\e[39m**\e[0m
+                        \e[39m***\e[0m\e[38;5;184mcccc\e[0m\e[38;5;220mee\e[0m\e[33maa\e[0m\e[39m**\e[0m
+                    \e[39m**\e[0m\e[39m**\e[0m*\e[38;5;184mcccc\e[0m\e[38;5;220mee\e[0m\e[33maaa\e[0m\e[39m**\e[0m
+                \e[39m*****\e[0m\e[38;5;184mcccccc\e[0m\e[38;5;220mee\e[0m\e[33maaaa\e[0m\e[39m**\e[0m
+     \e[39m************\e[0m\e[38;5;184mcccccc\e[0m\e[38;5;220mee\e[0m\e[33maaaaaaa\e[0m\e[39m**\e[0m
+   \e[39m***\e[0m\e[38;5;184mccccccccccccc\e[0m\e[38;5;220mee\e[0m\e[33maaaaaaaaaa\e[0m\e[39m**\e[0m
+     \e[39m***\e[0m\e[33maaaaaaa\e[0m\e[38;5;220mee\e[0m\e[38;5;184mc\e[0m\e[38;5;220meeeee\e[0m\e[33maaaaaae\e[38;5;214mg\e[0m\e[39m**\e[0m
+       \e[39m******\e[0m\e[33maaaaaaaa\e[0m\e[38;5;220meeeeee\e[0m\e[33ma\e[0m\e[38;5;214mg\e[0m\e[39m**\e[0m
+           \e[39m********\e[0m\e[33maaaaaa\e[0m\e[38;5;220meee\e[0m\e[38;5;214mgg\e[0m\e[39m**\e[0m
+            \e[37m#######\e[0m*****\e[0m\e[33maaaa\e[0m\e[38;5;214mggg\e[0m\e[39m**\e[0m
+           \e[37m###\e[0m\e[38;5;220m|¯|\e[0m\e[37m########\e[0m\e[39m**\e[0m\e[33maaaa\e[0m\e[38;5;214mggg\e[0m\e[39m**\e[0m
+         \e[39m**\e[0m\e[37m###\e[0m\e[38;5;220m|_|\e[0m\e[37m###\e[0m\e[38;5;220m|¯|\e[0m\e[37m#####\e[0m\e[39m**\e[0m*\e[33maa\e[0m\e[38;5;214mgggg\e[0m\e[39m**\e[0m
+       \e[39m**\e[0m\e[34m~~\e[0m\e[37m#########\e[0m\e[38;5;220m|_|\e[0m\e[37m########\e[0m\e[39m**\e[0m\e[39m**\e[0m\e[38;5;214mggg\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[34m~~\e[0m\e[39m**\e[0m\e[37m#################\e[0m\e[34m~~~~~\e[0m\e[39m**\e[0m***
+     \e[39m**\e[0m\e[34m~~~~~~\e[0m\e[37m#########\e[0m\e[34m~~~~~~~~\e[0m\e[39m**\e[0m\e[34m~\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[39m**\e[0m\e[34m~~~~~~~~~~~~\e[0m\e[39m******\e[0m\e[34m~~~~~\e[0m\e[39m**\e[0m
+    \e[39m*\e[0m\e[33m$xxx\e[0m\e[39m**\e[0m\e[34m~~~~~~\e[0m\e[39m**\e[0m\e[39m**\e[0m\e[34m~~~~~~~~~~~~\e[0m\e[39m**\e[0m
+    \e[39m*\e[0m\e[33m$xxx\e[0m\e[39m**\e[0m\e[34m~~~~\e[0m\e[39m******\e[0m\e[34m~~~~~~~~~~~~\e[0m\e[39m**\e[0m
+     \e[39m****\e[0m\e[34m~~~~~\e[0m\e[39m*\e[0m\e[33m$xxx\e[0m\e[39m**\e[0m\e[34m~~~~~~~~~~~~\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[34m~~\e[0m\e[39m**\e[0m\e[34m~~~\e[0m\e[39m*\e[0m\e[33m$xxx\e[0m\e[39m**\e[0m\e[34m~~~~~~~~~~~~\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[34m~~\e[0m\e[39m**\e[0m\e[34m~~~~\e[0m\e[39m******\e[0m\e[34m~~~~~~~~~~\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[34m~~~\e[0m\e[39m**\e[0m\e[34m~~~~~~~~~\e[0m\e[39m**\e[0m\e[34m~~~~~~~~\e[0m\e[39m**\e[0m
+     \e[39m**\e[0m\e[34m~~~~\e[0m\e[39m**\e[0m*\e[34m~~~~~~~\e[0m\e[39m**\e[0m\e[34m~~~~~~~~\e[0m\e[39m**\e[0m
+    \e[39m**\e[0m\e[34m~~~~~~~\e[0m\e[39m**\e[0m\e[39m****\e[0m\e[34m~~~~\e[0m\e[39m**\e[0m\e[34m~~~~\e[0m\e[39m**\e[0m\e[34m~~\e[0m\e[39m**\e[0m
+   \e[39m**\e[0m\e[34m~~~~~~~~~~~~~~~~~~~~\e[0m\e[39m**\e[0m**\e[34m~~~~~~\e[0m\e[39m**\e[0m
+    \e[39m*********************\e[0m    \e[39m*******\e[0m
+  \e[1;32m~        ARE YOU A WIZARD?        ~\e[0m
+ \e[1;32m~         github.com/aallrd         ~\e[0m
