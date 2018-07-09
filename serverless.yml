@@ -1,0 +1,38 @@
+service: wizard-as-a-service
+
+frameworkVersion: ">=1.2.0 <2.0.0"
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
+
+provider:
+  name: aws
+  runtime: python3.6
+
+functions:
+  magicspell:
+    handler: wizarding.spell
+    events:
+      - http:
+          path: /
+          method: get
+          integration: lambda
+          response:
+            headers:
+              Content-Type: "'text/plain'"
+            template: $input.path('$')
+  wipspell:
+    handler: wizarding.wipspell
+    events:
+      - http:
+          path: /wip
+          method: get
+          integration: lambda
+          response:
+            headers:
+              Content-Type: "'text/plain'"
+            template: $input.path('$')
